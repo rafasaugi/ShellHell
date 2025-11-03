@@ -9,8 +9,8 @@ function startGame()
 let GameArea = {
     canvas: document.createElement("canvas"),
     start: function(){
-        this.canvas.width = 1600;
-        this.canvas.height = 900;
+        this.canvas.width = 1280;
+        this.canvas.height = 720;
         this.context = this.canvas.getContext("2d");
         clearInterval(GameArea.interval);
         this.interval = setInterval(updateGameArea, 20);
