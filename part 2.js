@@ -15,7 +15,10 @@ let grass9;
 //Animation Variables
 let playerSprite = "images"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 let imagesScale = 0.4;
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 
